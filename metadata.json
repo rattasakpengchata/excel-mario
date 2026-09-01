@@ -1,0 +1,6 @@
+{
+  "name": "Super MOS Excel Mario - บทเรียน Excel มาตรฐาน MOS",
+  "description": "เว็บไซต์เรียนรู้ Microsoft Excel ตามมาตรฐาน MOS Associate & Expert สไตล์เกม Super Mario แบบอินเทอร์แอคทีฟ สำหรับนิสิตมหาวิทยาลัย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
